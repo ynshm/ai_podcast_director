@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of AI Video Script & Preview Generator",
+  "description": "Generates a video script and a dynamic Remotion preview based on a user prompt using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
